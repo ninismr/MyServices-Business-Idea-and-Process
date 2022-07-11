@@ -5,4 +5,4 @@ Our business idea is called 'MyServices'. MyServices is a marketplace created sp
 
 For more detail about our business idea, you may download and read our presentation slides that I have already attached. 
 
-![](14serv.png)
+![](myservices.png)
